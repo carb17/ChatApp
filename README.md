@@ -55,7 +55,7 @@ The code is divided into several classes, each serving a specific purpose:
    ```bash
    python server.py
    ```
-4. **Run the client**:
+4. ** Open a **new terminal window** and run the client**:
    ```bash
    python client.py
    ```

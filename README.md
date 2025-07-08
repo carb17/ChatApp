@@ -1,4 +1,4 @@
-# 🧠 Python Chat Client with GUI
+# Python Chat Client with GUI
 
 ## Core Functionality
 
@@ -40,7 +40,7 @@ The code is divided into several classes, each serving a specific purpose:
 
 ---
 
-## 🛠️ How to Run
+## How to Run
 
 1. Download the project:
    - Option 1: Clone the repository using Git:

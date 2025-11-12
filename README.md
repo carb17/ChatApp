@@ -21,7 +21,7 @@ This application allows users to:
 
 - 💌 **Private Chat**: Start individual conversations with other users.
 
---
+---
 
 ## 🧩 Code Structure
 
